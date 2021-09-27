@@ -1,1 +1,1 @@
-<?php `git pull`;
+<?php `git stash git pull`;
