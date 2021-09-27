@@ -1,1 +1,4 @@
-<?php `git stash git pull`;
+<?php 
+	exec('git stash');
+	exec('git pull');
+?>
